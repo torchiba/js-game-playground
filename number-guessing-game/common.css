@@ -1,0 +1,15 @@
+.quizCount {
+  color: var(--bs-pink);
+}
+.outputWrap {
+  display: none;
+}
+.btn-again {
+  margin: 1em auto 0;
+  display: none;
+}
+.inputArea {
+  width: 10em;
+  display: inline-block;
+  vertical-align: bottom;
+}
